@@ -3,7 +3,7 @@
 # Manga Library 
 
 # Project Purpose
-This project demonstrates how to organize and display manga titles using PHP.  
+This project demonstrates how to organize and display manga titles/sauce using PHP.  
 It includes:
 
 1. **Recursion** – Display categories, subcategories, and books.  
