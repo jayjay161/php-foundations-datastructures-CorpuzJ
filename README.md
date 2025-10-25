@@ -66,7 +66,7 @@ It includes:
 
 **OUTPUT:**
 
-![ main Screenshot](screenshots/main.png)
+![ main Screenshot](screenshots/main.jpg)
 ---
 
 ## Adding Screenshots/Images in README
