@@ -23,6 +23,9 @@ It includes:
 1. Place `recursion.php` in your PHP server folder.  
 2. Open it in a browser (via XAMPP, MAMP, Laragon, or another PHP environment).  
 3. You will see the library categories and books displayed.
+**Output**
+![Recursive Function Screenshot](Screenshots/recursive.png)
+
 
 ### Step 2: Hash Table – Book Details
 **File:** `hashtable.php`  
