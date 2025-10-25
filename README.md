@@ -19,6 +19,7 @@ It includes:
 **File:** `recursion.php`  
 - Defines categories and books in arrays.  
 - Uses recursion to display the library structure.  
+
 **How to Run This Part:**  
 1. Place `recursion.php` in your PHP server folder.  
 2. Open it in a browser (via XAMPP, MAMP, Laragon, or another PHP environment).  
@@ -34,6 +35,7 @@ It includes:
 **File:** `hashtable.php`  
 - Stores book details in an associative array.  
 - Use `getBookInfo("Book Title", $bookInfo);` to search.  
+
 **How to Run This Part:**  
 1. Place `hashtable.php` in your PHP server folder.  
 2. Open it in a browser.  
@@ -47,6 +49,7 @@ It includes:
 **File:** `bst.php`  
 - Stores book titles in a BST.  
 - Performs alphabetical traversal (`inorderTraversal`) and search (`search`).  
+
 **How to Run This Part:**  
 1. Place `bst.php` in your PHP server folder.  
 2. Open it in a browser.  
@@ -59,6 +62,7 @@ It includes:
 ### Step 4: Main Integration
 **File:** `main.php`  
 - Includes all three files: `recursion.php`, `hashtable.php`, `bst.php`.  
+
 **How to Run This Part:**  
 1. Place `main.php` and all included files in the same PHP server folder.  
 2. Open `main.php` in a browser.  
