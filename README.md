@@ -1,6 +1,6 @@
 # php-foundations-datastructures-CorpuzJ
 
-# Anime & Manga Library Project
+# Anime & Manga Library 
 
 # Project Purpose
 This project demonstrates how to organize and display anime and manga titles using PHP.  
