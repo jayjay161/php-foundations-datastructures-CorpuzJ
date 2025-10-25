@@ -24,7 +24,7 @@ It includes:
 2. Open it in a browser (via XAMPP, MAMP, Laragon, or another PHP environment).  
 3. You will see the library categories and books displayed.
    
-![Recursive Function Screenshot](Screenshots/recursive.png)
+![Recursive Function Screenshot](Screenshots/recurse.png)
 
 
 
