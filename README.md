@@ -23,7 +23,8 @@ It includes:
 1. Place `recursion.php` in your PHP server folder.  
 2. Open it in a browser (via XAMPP, MAMP, Laragon, or another PHP environment).  
 3. You will see the library categories and books displayed.
-   
+
+**OUTPUT**
 ![Recursive Function Screenshot](screenshots/recurse.png)
 
 
@@ -37,6 +38,9 @@ It includes:
 2. Open it in a browser.  
 3. You will see the details of the book searched.
 
+**OUTPUT**
+![Hash table Screenshot](screenshots/hastT.jpg)
+
 ### Step 3: Binary Search Tree (BST)
 **File:** `bst.php`  
 - Stores book titles in a BST.  
@@ -45,6 +49,9 @@ It includes:
 1. Place `bst.php` in your PHP server folder.  
 2. Open it in a browser.  
 3. You will see sorted book titles and search results.
+
+**OUTPUT**
+![ BST Screenshot](screenshots/BST.jpg)
 
 ### Step 4: Main Integration
 **File:** `main.php`  
